@@ -3,7 +3,7 @@
 
 ### 图例：
 
-![在这里插入图片描述](https://github.com/laoou002/LOCalendar/blob/master/boke001.png)
+<img src="https://github.com/laoou002/LOCalendar/blob/master/boke001.png"  height="320" width="667">
 
 ### 使用方法：
 ```objc
